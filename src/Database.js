@@ -13,20 +13,20 @@ export const Database = {
     {id: 2, name: 'Línea Zinc'},
   ], 
   stations: [
-    {id: 1, name: 'Station 1', productionLine: 1, volumen: 1000, components: [
+    {id: 1, name: 'Estación 1', productionLine: 1, volumen: 1000, components: [
       {component: 1, averge: 5, ideal: 10}, 
       {component: 2, averge: 5, ideal: 10}, 
     ]},
-    {id: 2, name: 'Station 2', productionLine: 1, volumen: 1000, components: [
+    {id: 2, name: 'Estación 2', productionLine: 1, volumen: 1000, components: [
       {component: 1, averge: 15, ideal: 30}, 
       {component: 6, averge: 100, ideal: 8}, 
     ]},
 
-    {id: 3, name: 'Station A', productionLine: 2, volumen: 1000, components: [
+    {id: 3, name: 'Estación A', productionLine: 2, volumen: 1000, components: [
       {component: 1, averge: 5, ideal: 10}, 
       {component: 2, averge: 5, ideal: 10}, 
     ]},
-    {id: 4, name: 'Station B', productionLine: 2, volumen: 1000, components: [
+    {id: 4, name: 'Estación B', productionLine: 2, volumen: 1000, components: [
       {component: 1, averge: 15, ideal: 30}, 
       {component: 6, averge: 100, ideal: 8}, 
     ]},
